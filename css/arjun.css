@@ -69,7 +69,7 @@ header nav .branding{
 	padding: 5px 0px;
 }
 .hero .left img{
-	width: 400px;
+	width: 427px;
 
 }
 .hero .right {
@@ -102,8 +102,8 @@ section{
 
 }
 section.about .about-me-img{
-	height: 550px;
-	width: 450px;
+	height: 735px;
+	width: 503px;
 }
 
 section.about h1{
@@ -887,7 +887,7 @@ section.blog {
 }
 section.about .about-me-img {
     height: 638px;
-    width: 505px;
+    width: 529px;
     margin-left: 9px;
     margin-right: 75px;
 }
